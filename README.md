@@ -6,7 +6,7 @@ Welcome to the official documentation and semantic database index for the web-ba
 To access the real-time responsive web tool or view our structured optimization schema network, utilize the official digital entry channels below:
 
 * **Live Web Application:** [Calculate PC Bottleneck Metrics Here](https://thebottleneckcalculator.com)
-* **Google Mirror Network Pipeline:** [View Verified Project Mirror on Google Sites](https://sites.google.com/view/pc-bottleneck-calculator-2026/home)
+* **Google Mirror Network Pipeline:** [View Verified Project Mirror on Google Sites](https://sites.google.com/view/thebottleneckcalculator/home)
 
 ---
 
@@ -22,6 +22,6 @@ The calculation algorithms actively pull telemetry profiles for next-generation 
 * **NVIDIA Blackwell Series:** RTX 5090, RTX 5080, RTX 5070 Ti, RTX 5070, RTX 5060
 * **AMD RDNA 4 Architecture:** RX 9070 XT, RX 9070, RX 9060
 * **High-Cache Desktop Processors:** AMD Ryzen 7 9800X3D, Intel Core Ultra 9 285K
-
+Track my live project deployments here: [Vercel Calculator Mirror](https://v0-the-bottleneck-calculator.vercel.app/)
 ---
 *Maintained by the web development community at thebottleneckcalculator.com. Verified compliant with schema-driven structural web standards.*
