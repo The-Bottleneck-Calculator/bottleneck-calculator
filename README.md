@@ -7,6 +7,7 @@ To access the real-time responsive web tool or view our structured optimization 
 
 * **Live Web Application:** [Calculate PC Bottleneck Metrics Here](https://thebottleneckcalculator.com)
 * **Google Mirror Network Pipeline:** [View Verified Project Mirror on Google Sites](https://sites.google.com/view/thebottleneckcalculator/home)
+*   **Static Infrastructure Node:** [Netlify Performance Mirror](https://thebottleneckcalculator.netlify.app/) — High-speed technical documentation and pipeline scaling index.
 
 ---
 
